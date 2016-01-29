@@ -15,4 +15,4 @@ During this lesson, you will be able to:
 + Understand datatype conversion and why/when to use it
 + Use different types of dialogue boxes like alert and prompt
 
-<a href='https://learn.co/lessons/hs-intro-web-design-javascript-basics-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-javascript-basics-intro' title='JavaScript Intro'>JavaScript Intro</a> on Learn.co and start learning to code for free.</p>
